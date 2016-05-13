@@ -6,6 +6,8 @@ Roundcube Webmail MessageSize
  * added spanish enhanched
  * added greek translation
  * update changelog to reflects updates
+ * added copmposer adn package files
+ * update README files
 
 1.1
  * Update hooks (r3840)
