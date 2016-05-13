@@ -9,6 +9,7 @@
  * @version 1.1
  * @author Timo Kousa
  * @modified by Philip Weir
+ * @modified by PICCORO Lenz McKAY
  */
 class messagesize extends rcube_plugin
 {
