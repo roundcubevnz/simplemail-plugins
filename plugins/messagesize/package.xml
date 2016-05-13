@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packagerversion="1.9.0" version="2.0" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+	<name>messagesize</name>
+	<summary>Show alert when mesage size are over</summary>
+	<description>permit stablish a size a part of the php permited!  by capping the cumulative size of all the attachments</description>
+	<lead>
+		<name>JhonDoe</name>
+		<active>no</active>
+	</lead>
+	<version>
+		<release>1.0.1</release>
+		<api>1.1</api>
+	</version>
+	<stability>
+		<release>stable</release>
+		<api>stable</api>
+	</stability>
+	<license uri="http://www.gnu.org/licenses/gpl.html">GNU GPLv3+</license>
+	<dependencies>
+		<required>
+			<php>
+				<min>5.2.1</min>
+			</php>
+		</required>
+	</dependencies>
+	<phprelease/>
+</package>
