@@ -9,3 +9,4 @@ Simplemail plugins still not integrated but with some fixed for roundcube releas
 --------------------------- | ----------------------------|-----|-----|-----|-----|------
  twofactor_gauthenticator   | twofactor_gauthenticator    |  no | si  | si  | si  | https://github.com/alexandregz/twofactor_gauthenticator 
     messagesize             |        messagesize          |  si | si  | si  | si  | https://github.com/scambra/RoundCube-Plugin-Message-Size
+    showgravatar            |        showgravatar         |  si | si  | si  | si  | https://github.com/kepi/show-gravatar
