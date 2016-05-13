@@ -1,8 +1,13 @@
 Roundcube Webmail MessageSize
 =============================
 
-2010 08 01
-==========
+1.1.1
+ * added russian translation by me (with support of @nerv)
+ * added spanish enhanched
+ * added greek translation
+ * update changelog to reflects updates
+
+1.1
  * Update hooks (r3840)
 
 2010 06 16
